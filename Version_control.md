@@ -69,8 +69,8 @@ Git為分散式版本控制系統，為了更好管理Linux內核而開發
 
 ### **5.分支的使用方法**
 
-透過 git branch 指令得知已經擁有的分支
-透過git checkout -b [BranchName]指令建立分支，並將目前工作目錄切換到新的分支
+透過 `git branch` 指令得知已經擁有的分支  
+透過 `git checkout -b [BranchName]` 指令建立分支，並將目前工作目錄切換到新的分支
 以下為分支其他的常用指令
 
 | 指令 | 功能 |
