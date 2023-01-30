@@ -87,8 +87,8 @@ Git為分散式版本控制系統，為了更好管理Linux內核而開發
 
 ### **6.Commit 介紹及使用**
 
->`git commit` ：將暫存區的檔案提交到儲存庫儲存  
->`git commit -m "修改記錄"`：說明這次的 commit 做了什麼事
+`git commit` ：將暫存區的檔案提交到儲存庫儲存  
+`git commit -m "修改記錄"`：說明這次的 commit 做了什麼事
 
 #### **使用 git commit 指令一定要加上 -m"修改紀錄“ 訊息**
 
