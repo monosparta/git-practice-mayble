@@ -104,10 +104,10 @@ Git flow是最早出現的一套流程，且廣泛被應用。
 Git flow 提出不同的分支功能，分別有 master、develop 、hotfix、release、feature 五種分支。  
 而這五個分支，根據他們的性質，又有其他稱法：
 
-#### **長期分支 - master 分支、develop 分支**
+- #### **長期分支 - master 分支、develop 分支**
 
 原因：因 Master 與 Develop 分支會一直存活在整個 Git flow 裡，並不會被刪除掉。
 
-#### **短期分支 - hotfix 分支、release 分支、feature 分支**
+- #### **短期分支 - hotfix 分支、release 分支、feature 分支**
 
 原因：當完成專案後，這些更新的版本都會被合併進 Master 或 Develop 分支 ，之後就會被刪除掉。
